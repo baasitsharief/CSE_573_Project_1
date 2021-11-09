@@ -9,6 +9,6 @@ Implement Co-ordinate rotation based on Euler right hand rotations
 
 ## Task 2
 
-Implement Camera Calibration and derive intrinsic parameters of the camera
+Implement Camera Calibration and derive intrinsic parameters of the camera from the given image
 
 ![img](https://github.com/baasitsharief/CSE_573_Project_1/blob/main/checkboard.png)
